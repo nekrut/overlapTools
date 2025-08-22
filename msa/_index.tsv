@@ -1,0 +1,9 @@
+name	kind	strand	intervals	trimmed_stop	output_fasta
+N	CDS	1	108-1685	1	/home/anton/git/overlapTools/msa/CDS__N__108_1685.fa
+P/V/C	CDS	1	1807-3330	1	/home/anton/git/overlapTools/msa/CDS__P_V_C__1807_3330.fa
+P/V/C	CDS	1	1807-2499;2499-2705	1	/home/anton/git/overlapTools/msa/CDS__P_V_C__1807_2705.fa
+P/V/C	CDS	1	1829-2389	1	/home/anton/git/overlapTools/msa/CDS__P_V_C__1829_2389.fa
+M	CDS	1	3438-4445	1	/home/anton/git/overlapTools/msa/CDS__M__3438_4445.fa
+F	CDS	1	5458-7110	1	/home/anton/git/overlapTools/msa/CDS__F__5458_7110.fa
+H	CDS	1	7271-9124	1	/home/anton/git/overlapTools/msa/CDS__H__7271_9124.fa
+L	CDS	1	9234-15785	1	/home/anton/git/overlapTools/msa/CDS__L__9234_15785.fa
